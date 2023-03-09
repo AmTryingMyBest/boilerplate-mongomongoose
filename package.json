@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A boilerplate project",
   "main": "server.js",
+  "engines": {
+    "node": "16.14.2"
+  },
   "scripts": {
     "start": "node server.js"
   },
